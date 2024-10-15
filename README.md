@@ -1,1 +1,1 @@
-# linda
+# Image dataset
